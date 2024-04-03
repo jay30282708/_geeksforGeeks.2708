@@ -1,0 +1,569 @@
+.first1 {
+    display: flex;
+    margin-top: 23px;
+    position: relative;
+    bottom: 2px;
+    left: 6px;
+    gap: 20px;
+    font-weight: bold;
+
+
+}
+
+.logo1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 13px;
+    left: 92px;
+
+}
+
+.one2 {
+    position: relative;
+    left: 445px;
+    display: flex;
+    gap: 23px;
+}
+
+.two2 {
+    height: 40px;
+    width: 94px;
+    position: relative;
+    color: white;
+    background-color: rgb(43, 41, 41);
+    border-radius: 5px;
+
+}
+
+.five1 {
+    height: 30px;
+    border: .5px solid rgb(63, 60, 60);
+    display: flex;
+    white-space: nowrap;
+    gap: 20px;
+
+    overflow: auto;
+
+}
+
+
+.six1 {
+    height: 80vh;
+    width: 1459px;
+    background: linear-gradient(to bottom, rgb(5, 80, 80), white);
+}
+
+.six1 div {
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 52px;
+    font-size: 23px;
+    font-weight: 600
+}
+
+
+
+.seven2 {
+    height: 40px;
+    width: 450px;
+    margin-left: 490px;
+    border-radius: 12px;
+    background-color: white;
+    border: .5px;
+    margin-top: 27px;
+    font-weight: bold;
+}
+
+.seven1 {
+    height: 42px;
+    width: 92px;
+    border-radius: px;
+    background-color: white;
+    border: 5px;
+    background-color: rgb(38, 130, 38);
+    color: white;
+    margin: 0px;
+
+    position: relative;
+    right: 94px;
+    top: 3px;
+    font-size: 20px;
+}
+
+.nine1 {
+    height: 25px;
+    border-radius: 3px;
+    gap: 15px;
+    display: flex;
+    margin-left: 515px;
+    margin-top: 13px;
+    color: white;
+}
+
+.ten1 {
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(41, 96, 84);
+    border: .5px rgb(29, 119, 119);
+    font-size: 10px;
+    height: 30px;
+
+}
+
+.ten2 {
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(41, 96, 84);
+    border: .5px rgb(29, 119, 119);
+    font-size: 10px;
+    height: 30px;
+
+}
+
+.ten3 {
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(41, 96, 84);
+    border: .5px rgb(29, 119, 119);
+    font-size: 10px;
+    height: 30px;
+}
+
+.eleven1 {
+    height: 40vh;
+    width: 1050px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: white;
+    margin-top: 90px;
+    margin-left: 212px;
+    border-radius: 23px;
+
+}
+
+.pen {
+    margin: 0px;
+    padding: 0px;
+    height: 36vh;
+    width: 1050px;
+    position: relative;
+    bottom: 54px;
+    left: 110px;
+    gap: 58px;
+
+
+}
+
+.pen1 {
+    height: 25vh;
+    width: 280px;
+
+    border: .3px solid rgb(230, 219, 219);
+    flex-direction: column;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.pen2 {
+    color: black;
+    font-size: 16px;
+    margin-left: 14px;
+
+}
+
+.pen3 {
+    color: black;
+    font-size: 12px;
+    font-weight: lighter;
+    margin-bottom: 120px;
+    margin-left: 14px;
+}
+
+.cat {
+
+    height: 300px;
+    width: 930px;
+    margin-left: 270px;
+    display: flex;
+    border-radius: 12px;
+    overflow: hidden;
+
+}
+
+.cat1 {
+    margin-left: 27px;
+    margin-top: 63px;
+
+
+}
+
+.cat3 {
+    display: flex;
+    font-weight: lighter;
+    font-size: medium;
+    flex-wrap: nowrap;
+
+}
+
+.book {
+    height: 43px;
+    width: 1050px;
+    color: rgb(10, 9, 9);
+
+    display: flex;
+    margin-left: 212px;
+    margin-top: 85px;
+}
+
+.book3 {
+    height: 36px;
+    width: 83px;
+    border-radius: 17px;
+    margin-top: 6px;
+    margin-left: 864px;
+    background-color: rgb(243, 249, 246);
+    border: 1px solid black;
+
+}
+
+.book4 {
+    font-size: 27px;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-top: 15px;
+
+}
+
+.book1 {
+    height: 350px;
+    width: 1050px;
+    color: rgb(10, 9, 9);
+    border: 1px solid red;
+    margin-left: 212px;
+    display: grid;
+
+}
+
+/* this is a contant for heading of job */
+.book {
+    height: 43px;
+    width: 1050px;
+    color: rgb(10, 9, 9);
+
+    display: flex;
+    margin-left: 212px;
+    margin-top: 85px;
+}
+
+.book3 {
+    height: 36px;
+    width: 83px;
+    border-radius: 17px;
+    margin-top: 6px;
+    margin-left: 864px;
+    background-color: rgb(243, 249, 246);
+    border: 1px solid black;
+
+}
+
+.book4 {
+    font-size: 27px;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-top: 15px;
+
+}
+
+/* here all code written by kunal of cources content */
+/* this is for the box containg all the grid box */
+.eleven {
+    /* border: 2px solid yellow; */
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 460px 460px;
+    gap: 80px;
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    left: 100px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: small;
+    margin-left: 110px;
+
+}
+
+/* this is for the box contains all the contains like image and text */
+.twelve {
+    border: 1px solid grey;
+    border-radius: 12px;
+    overflow-x: visible;
+}
+
+/* this is for the beigneer block */
+.thirteen {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+/* this is for the interested block */
+.fourteen {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+/* this is for the explore now */
+#six {
+    border: 1px solid gray;
+    border-radius: 8px;
+    text-align: center;
+    color: green;
+    font-size: medium;
+    font-weight: 100;
+    padding: 10px;
+    width: 240px;
+    position: relative;
+    left: 21px;
+    margin-top: 40px;
+}
+
+/* this is for the refund box */
+#seven {
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    background-color: #FED600;
+    font-size: smaller;
+    margin-top: 25px;
+    padding: 4px;
+    width: 260px;
+    position: relative;
+    left: 14px;
+}
+
+.fifteen {
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+/* this is for the line below the image */
+#eight {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+/* this is the courses and view all box */
+.sixteen {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 100px;
+    width: 1000px;
+    font-family: 'Source Sans 3', sans-serif;
+    padding: 10px;
+}
+
+/* this is for the vieww all box */
+#nine {
+    width: 80px;
+    height: 30px;
+    border-radius: 16px;
+    border: 1px solid black;
+
+}
+
+/* last code of kunal contant name is courses */
+
+/* end contant for heading of job  */
+.fan {
+    width: 1050px;
+    color: rgb(10, 9, 9);
+    height: 355px;
+
+    margin-left: 212px;
+    margin-top: 10px;
+    display: flex;
+    gap: 85px;
+}
+
+.fan1 {
+    width: 295px;
+    color: rgb(10, 9, 9);
+    height: 355px;
+    border: 1px solid black;
+    border-radius: 12px;
+
+}
+
+.fan2 {
+    width: 295px;
+    color: rgb(10, 9, 9);
+    height: 355px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+.fan3 {
+    width: 295px;
+    color: rgb(10, 9, 9);
+    height: 355px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+.fan img {
+    margin-left: 25px;
+    margin-top: 12px;
+}
+
+.fan h3 {
+    margin-left: 25px;
+    font-family: 'Source Sans 3', sans-serif;
+
+}
+
+.fan button {
+    margin-left: 25px;
+    border-radius: 15px;
+    width: 73px;
+    border: .5px;
+
+}
+
+.fan4 img {
+    width: 20px;
+
+}
+
+.fan7 {
+    width: 295px;
+
+    margin-top: 28px;
+    font-size: 12px;
+    font-family: 'Source Sans 3', sans-serif;
+
+}
+
+.fan7 h5 {
+    margin-left: 6px;
+}
+
+.fan7 button {
+    width: 90px;
+    height: 30px;
+
+}
+.chess{
+    height:43px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ludo {
+    height: 255px;
+    width: 1050px;
+    border: .5px solid rgb(199, 204, 203);
+    margin-left: 212px;
+    border-radius: 12px;
+    display: flex;
+    overflow: hidden;
+}
+
+.ludo1 {
+    height: 255px;
+    width: 135px;
+    border: 1px solid rgb(196, 234, 196);
+    background-color: #8cc099;
+}
+
+.ludo2 {
+    color: #76b485;
+    height: 255px;
+    width: 605px;
+    border: 1px solid rgb(184, 222, 210);
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: bold;
+    font-size: large;
+
+
+}
+
+.ludo3 {
+    margin: 37px;
+    margin-left: 78px;
+}
+
+.ludox {
+    height: 255px;
+    width: 310px;
+    border: 1px solid rgb(196, 234, 196);
+    background-color: #4fac65;
+}
+
+.ludo h3 {
+    color: black;
+    margin-left: 78px;
+}
+
+.ludo1 img {
+    height: 133px;
+    margin-top: 40px;
+    margin-left: 62px;
+
+
+}
+
+.ludo h5 {
+    margin-left: 78px;
+    font-weight: lighter;
+    color: rgb(125, 129, 129);
+}
+
+.ludo5 {
+    display: flex;
+    gap: 52px;
+    font-size: 33px;
+    margin-left: 47px;
+    margin-top: 43px;
+}
+
+.ludo6 {
+    display: flex;
+    gap: 49px;
+    font-size: 22px;
+    margin-left: 47px;
+}
+
+.ludo7 {
+    height: 40px;
+    width: 245px;
+    background-color: rgb(34, 34, 86);
+    margin: 49px;
+    border-radius: 4px;
+}
+
+.ludo8 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 8px;
+    color: white;
+}
